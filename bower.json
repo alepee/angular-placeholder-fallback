@@ -1,0 +1,19 @@
+{
+  "name": "angular-placeholder-fallback",
+  "version": "0.0.1",
+  "homepage": "https://github.com/alepee/angular-placeholder-fallback",
+  "authors": [
+    "Kristiyan Kostadinov (packaged by Antoine Lépée <alepee@gmail.com>"
+  ],
+  "dependencies": {
+    "angular": "~1.2.25"
+  },
+  "description": "Directive to support the placeholder attribute on old browsers. No jQuery required.",
+  "main": "placeholder.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ]
+}
